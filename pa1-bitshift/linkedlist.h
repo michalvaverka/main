@@ -22,7 +22,7 @@
                 Any part of this code can be used IF AND ONLY IF all of the following conditions hold:
                     1) The whole header of this file (from the @filename to the end of the @disclaimer section) must be pasted
                             directly above where the borrowed snippet/whole code is used,
-                    2) The project bottowing this code IS NOT commercial, NOR accademical,
+                    2) The project borrowing this code IS NOT commercial, NOR accademical,
                     3) The creator of project borrowing this code will NOT present this project to a superior figure in his organization.
 
                 Any usage in compliance with rules listed above is allowed.
